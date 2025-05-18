@@ -113,7 +113,7 @@ const fallbackServices = [
     title: "Group Counselling & Mentoring",
     description:
       "Group support rooted in Islamic guidance, fostering growth through shared experiences.",
-    coverImage: "/services/group-counselling-mentoring.jpg"
+    coverImage: "/group-counselling-mentoring.jpg"
   },
   {
     slug: "school-holiday-programs",
