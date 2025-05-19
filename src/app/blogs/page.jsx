@@ -24,14 +24,17 @@ export default async function BlogsPage() {
   return (
     <div className="bg-gray-50 min-h-screen">
       {/* Hero Section */}
-      <section className="bg-blue-700 text-white py-20 px-4">
-        <div className="max-w-6xl mx-auto">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">Our Blog</h1>
-          <p className="text-xl text-blue-100 max-w-2xl">
-            Stay informed with our latest articles, insights, and updates.
-          </p>
-        </div>
-      </section>
+     <section
+  className="w-full h-[600px] bg-cover bg-center flex items-center justify-center"
+  style={{ backgroundImage: "url('/mosque.jpg')" }}
+>
+  <div className="bg-black bg-opacity-60 p-10 rounded-lg text-center">
+    <h1 className="text-5xl font-bold text-white mb-4">BLOG</h1>
+    <p className="text-white text-lg max-w-2xl"> Stay informed with our latest articles, insights, and updates.
+   
+    </p>
+  </div>
+</section>
       
       {/* Blog List */}
       <section className="max-w-6xl mx-auto px-4 py-12">
