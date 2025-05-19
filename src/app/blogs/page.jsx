@@ -28,7 +28,7 @@ export default async function BlogsPage() {
   className="w-full h-[600px] bg-cover bg-center flex items-center justify-center"
   style={{ backgroundImage: "url('/mosque.jpg')" }}
 >
-  <div className="bg-black bg-opacity-60 p-10 rounded-lg text-center">
+  <div className="bg-black bg-opacity-80 p-10 rounded-lg text-center">
     <h1 className="text-5xl font-bold text-white mb-4">BLOG</h1>
     <p className="text-white text-lg max-w-2xl"> Stay informed with our latest articles, insights, and updates.
    
