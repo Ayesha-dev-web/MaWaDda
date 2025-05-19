@@ -61,7 +61,7 @@ const fallbackServices = [
     title: "Islamic Marriage Celebrant",
     description:
       "Nikah ceremonies aligned with Islamic values and legal requirements, including registration services.",
-    coverImage: "/services/islamic-marriage-celebrant.jpg",
+    coverImage: "/islamic-marriage-celebrant.jpg",
     content: "Our Islamic Marriage Celebrant service provides comprehensive support for couples looking to get married in accordance with Islamic traditions and values."
   },
   {
@@ -69,7 +69,7 @@ const fallbackServices = [
     title: "Marriage Counselling",
     description:
       "Faith-based and modern guidance for couples to strengthen their relationship and resolve conflicts.",
-    coverImage: "/services/marriage-counselling.jpg",
+    coverImage: "/marriage-counselling.jpg",
     content: "Our Marriage Counselling service offers compassionate and effective guidance for couples at any stage of their relationship."
   },
   {
@@ -77,7 +77,7 @@ const fallbackServices = [
     title: "Marriage Conflict Resolution",
     description:
       "Islamic and modern conflict resolution to restore harmony and understanding in relationships.",
-    coverImage: "/services/marriage-conflict-resolution.jpg",
+    coverImage: "/marriage-conflict-resolution.jpg",
     content: "Our Marriage Conflict Resolution service offers specialized mediation for couples experiencing significant challenges in their relationship."
   },
   {
@@ -85,7 +85,7 @@ const fallbackServices = [
     title: "Marriage Arbitration Committee",
     description:
       "Structured mediation rooted in Islamic ethics to resolve disputes fairly and respectfully.",
-    coverImage: "/services/marriage-arbitration-committee.jpg",
+    coverImage: "/marriage-arbitration-committee.jpg",
     content: "Our Marriage Arbitration Committee provides formal dispute resolution for couples facing serious marital issues."
   },
   {
@@ -93,7 +93,7 @@ const fallbackServices = [
     title: "Marriage Functions – Venue & Catering",
     description:
       "Elegant venue hire and halal catering for Nikah and wedding celebrations, professionally coordinated.",
-    coverImage: "/services/marriage-functions-venue-catering.jpg",
+    coverImage: "/marriage-functions-venue-catering.jpg",
     content: "Our Marriage Functions service offers comprehensive support for your wedding celebrations, from intimate Nikah ceremonies to grand receptions."
   },
   {
