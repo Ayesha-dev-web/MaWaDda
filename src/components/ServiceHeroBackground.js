@@ -17,7 +17,7 @@ export default function ServiceHeroBackground({ coverImage, slug }) {
         minHeight:'60vh'
       }}
     >
-      <div className="  bg-opacity-90"></div>
+      <div className="  bg-opacity-100"></div>
     </div>
   );
 } 
