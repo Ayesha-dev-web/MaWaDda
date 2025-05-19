@@ -62,7 +62,7 @@ export default function Contact() {
         className="w-full h-[600px] bg-cover bg-center flex items-center justify-center"
         style={{ backgroundImage: "url('/mosque.jpg')" }}
       >
-        <div className=" bg-opacity-80 p-10 rounded-lg text-center">
+        <div className="bg-black bg-opacity-80 p-10 rounded-lg text-center">
           <h1 className="text-5xl font-bold text-white mb-4">Contact Us</h1>
           <p className="text-white text-lg max-w-2xl">
             We're here to help you with anything you need. Let's connect and build something great together.
