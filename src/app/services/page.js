@@ -73,7 +73,7 @@ const fallbackServices = [
     title: "Marriage Conflict Resolution",
     description:
       "Islamic and modern conflict resolution to restore harmony and understanding in relationships.",
-    coverImage: "/marriage-conflict-resolution.jpg"
+    coverImage: "/conflict.jpg"
   },
   {
     slug: "marriage-arbitration-committee",
@@ -81,7 +81,7 @@ const fallbackServices = [
     title: "Marriage Arbitration Committee",
     description:
       "Structured mediation rooted in Islamic ethics to resolve disputes fairly and respectfully.",
-    coverImage: "/marriage-arbitration-committee.jpg"
+    coverImage: "/footer.jpg"
   },
   {
     slug: "marriage-functions-venue-catering",
@@ -89,7 +89,7 @@ const fallbackServices = [
     title: "Marriage Functions – Venue & Catering",
     description:
       "Elegant venue hire and halal catering for Nikah and wedding celebrations, professionally coordinated.",
-    coverImage: "/marriage-functions-venue-catering.jpg"
+    coverImage: "/marriage-counselling.jpg"
   },
   {
     slug: "youth-children-counselling",
@@ -97,7 +97,7 @@ const fallbackServices = [
     title: "Youth & Children Counselling",
     description:
       "Supportive counselling for young individuals to build resilience and emotional well-being with Islamic values.",
-    coverImage: "/youth-children-counselling.jpg"
+    coverImage: "/service.jpg"
   },
   {
     slug: "islamic-talks-podcasts",
@@ -105,7 +105,7 @@ const fallbackServices = [
     title: "Islamic Talks & Podcasts",
     description:
       "Inspirational talks and podcasts covering faith, personal development, and community well-being.",
-    coverImage: "/islamic-talks-podcasts.jpg"
+    coverImage: "/mosque.jpg"
   },
   {
     slug: "group-counselling-mentoring",
@@ -113,7 +113,7 @@ const fallbackServices = [
     title: "Group Counselling & Mentoring",
     description:
       "Group support rooted in Islamic guidance, fostering growth through shared experiences.",
-    coverImage: "/group-counselling-mentoring.jpg"
+    coverImage: "/service.jpg"
   },
   {
     slug: "school-holiday-programs",
@@ -121,7 +121,7 @@ const fallbackServices = [
     title: "School Holiday Programs",
     description:
       "Fun, skill-building activities during holidays with a safe, faith-based environment for children.",
-    coverImage: "/school-holiday-programs.jpg"
+    coverImage: "/school.webp"
   },
   {
     slug: "premium-tuition-for-primary-secondary-students",
