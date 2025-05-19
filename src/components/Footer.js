@@ -8,7 +8,7 @@ const Footer = () => {
       
       <div className="absolute inset-0">
         <Image
-          src="/mosque.jpg"
+          src="/fotter1.jpg"
           alt="Footer Background"
           layout="fill"
           objectFit="cover"
