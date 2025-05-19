@@ -81,7 +81,7 @@ const fallbackServices = [
     title: "Marriage Arbitration Committee",
     description:
       "Structured mediation rooted in Islamic ethics to resolve disputes fairly and respectfully.",
-    coverImage: "/services/marriage-arbitration-committee.jpg"
+    coverImage: "/marriage-arbitration-committee.jpg"
   },
   {
     slug: "marriage-functions-venue-catering",
@@ -89,7 +89,7 @@ const fallbackServices = [
     title: "Marriage Functions – Venue & Catering",
     description:
       "Elegant venue hire and halal catering for Nikah and wedding celebrations, professionally coordinated.",
-    coverImage: "/services/marriage-functions-venue-catering.jpg"
+    coverImage: "/marriage-functions-venue-catering.jpg"
   },
   {
     slug: "youth-children-counselling",
@@ -97,7 +97,7 @@ const fallbackServices = [
     title: "Youth & Children Counselling",
     description:
       "Supportive counselling for young individuals to build resilience and emotional well-being with Islamic values.",
-    coverImage: "/services/youth-children-counselling.jpg"
+    coverImage: "/youth-children-counselling.jpg"
   },
   {
     slug: "islamic-talks-podcasts",
@@ -105,7 +105,7 @@ const fallbackServices = [
     title: "Islamic Talks & Podcasts",
     description:
       "Inspirational talks and podcasts covering faith, personal development, and community well-being.",
-    coverImage: "/services/islamic-talks-podcasts.jpg"
+    coverImage: "/islamic-talks-podcasts.jpg"
   },
   {
     slug: "group-counselling-mentoring",
@@ -121,7 +121,7 @@ const fallbackServices = [
     title: "School Holiday Programs",
     description:
       "Fun, skill-building activities during holidays with a safe, faith-based environment for children.",
-    coverImage: "/services/school-holiday-programs.jpg"
+    coverImage: "/school-holiday-programs.jpg"
   },
   {
     slug: "premium-tuition-for-primary-secondary-students",
