@@ -73,7 +73,7 @@ const fallbackServices = [
     title: "Marriage Conflict Resolution",
     description:
       "Islamic and modern conflict resolution to restore harmony and understanding in relationships.",
-    coverImage: "/services/marriage-conflict-resolution.jpg"
+    coverImage: "/marriage-conflict-resolution.jpg"
   },
   {
     slug: "marriage-arbitration-committee",
