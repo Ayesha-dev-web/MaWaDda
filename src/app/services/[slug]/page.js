@@ -214,10 +214,11 @@ export default function ServiceDetailPage({ params }) {
     <div className="flex flex-col">
       {/* Hero */}
       <ServiceHeroBackground coverImage={service.coverImage} slug={slug} />
-      <div className="relative z-10 -mt-32 mb-12 text-center">
-        <h1 className="text-5xl font-bold mb-4 drop-shadow-lg text-white">{service.title}</h1>
-        <p className="text-lg max-w-3xl mx-auto drop-shadow-md text-white">{service.description}</p>
-      </div>
+      <div className=" z-6 -mt-52 mb-22 text-center">
+  <h1 className="text-5xl font-bold mb-4 drop-shadow-lg text-white">{service.title}</h1>
+  <p className=" max-w-3xl mx-auto drop-shadow-md text-white">{service.description}</p>
+</div>
+
 
       {/* Description + Form */}
       <div className="bg-white py-16 px-6 lg:px-20 grid grid-cols-1 md:grid-cols-2 gap-12 items-start border-t border-gray-200">
