@@ -13,7 +13,8 @@ export default function ServiceHeroBackground({ coverImage, slug }) {
         backgroundImage: `url(${imageSrc})`,
         backgroundPosition: 'top', 
         backgroundRepeat: 'no-repeat',
-        backgroundSize: 'cover'
+        backgroundSize: 'cover',
+        minHeight:'60vh'
       }}
     >
       <div className="  bg-opacity-90"></div>
