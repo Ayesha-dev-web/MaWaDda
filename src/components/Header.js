@@ -40,7 +40,7 @@ const Header = () => {
             <div className='flex items-center justify-between px-[5vw] py-[1.5em] border-b-2'>
                
                 <div className="logoMawadda">
-                    <Image src={'/logo.png'} height={200} width={300} alt='logo' className='h-auto w-[70%] md:h-[35px] md:w-auto' />
+                    <Image src={'/WhatsApp Image 2025-05-21 at 5.50.07 AM.jpeg'} height={200} width={300} alt='logo' className='h-auto w-[70%] md:h-[35px] md:w-auto' />
                 </div>
 
                 
